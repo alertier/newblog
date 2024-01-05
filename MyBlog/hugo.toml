@@ -1,5 +1,15 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'zh-CN'
+title = '电子科学学院请销假系统'
 
 
+theme = "hyde"
+
+[Menus]
+  main = [
+      {Name = "Github源码", URL = "https://github.com/alertier/newblog"},
+  ]
+
+[params]
+  themeColor = "theme-base-0d"
+  description = "一段简短的描述"
