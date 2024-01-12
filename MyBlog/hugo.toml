@@ -8,6 +8,7 @@ theme = "hyde"
 [Menus]
   main = [
       {Name = "Github源码", URL = "https://github.com/alertier/newblog"},
+      {Name = "1", URL = "../"},
   ]
 
 [params]
